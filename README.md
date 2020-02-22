@@ -1,6 +1,6 @@
 # Basic Browser JavaScript - Click Counter Calamity
 
-[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
+###### A tribute to [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
 
 Welcome to Module 4, JavaScript Time!
 
