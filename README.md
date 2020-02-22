@@ -22,5 +22,9 @@ You have been contracted by Coo Coo Computing Challengers to take a concept, Cli
   - Every subsequent _Collective Culmination Compounder_ increases the value of a click by squaring the previous value.  For example, the second _Collective Culmination Compounder_ will increase the value of a click to `1.2x * 1.2x` or `1.44x`.
 - You must be able to reset the game state.  This action should reset the game to zero clicks, zero _Clicking Companions_, and zero _Collective Culmination Compounders_.
 
+## Resources
 
+### Jasmine and BDD
+- [Jasmine Testing Framework Guide](https://wecancodeit.github.io/java-slides/frontend/js-jasmine-testing/index.html#/)
+- [Jasmine Official Documentation](https://jasmine.github.io/)
 
