@@ -193,7 +193,7 @@ This iteration is for you to individualize your project.  Use JavaScript to affe
 
 
 ## Development Environment Setup
-[Setup Guide](wecancodeit-materials.netlify.com/exercises/mastery/module-4/development-environment-setup)
+[Setup Guide](https://wecancodeit-materials.netlify.com/exercises/mastery/module-4/development-environment-setup)
 
 ## Grading Rubric
-[Grading Rubric Guidelines](wecancodeit-materials.netlify.com/exercises/mastery/module-4/grading-rubric)
+[Grading Rubric Guidelines](https://wecancodeit-materials.netlify.com/exercises/mastery/module-4/grading-rubric)
